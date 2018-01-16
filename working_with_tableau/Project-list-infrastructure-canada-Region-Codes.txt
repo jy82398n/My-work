@@ -1,0 +1,14 @@
+Code	Region
+sk	Saskatchewan
+nu	Nunavut
+on	Ontario
+ab	Alberta
+nb	New Brunswick
+mb	Manitoba
+bc	British Columbia
+ns	Nova Scotia
+pe	Prince Edward Island
+qc	Quebec
+nl	Newfoundland and Labrador
+nt	Northwest Territories
+yt	Yukon
